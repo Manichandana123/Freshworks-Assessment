@@ -16,3 +16,4 @@ Initially,if a client want to create a key,client must give key value pair as in
 
 ![Screenshot (216)](https://user-images.githubusercontent.com/58383104/103439215-fb341d00-4c60-11eb-9846-1e4b85ca1eba.png)
 
+If a client wishes to delete some key value whose Time-To-Live property is not expired ,then it gets deletes from datastore
