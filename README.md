@@ -11,9 +11,4 @@ Every key supports setting a Time-To-Live property when it is created. This prop
 Appropriate error responses must always be returned to a client if it uses the data store in unexpected ways or breaches any limits
 The file size never exceeds 1GB
 
-Go through the code.py file to know about CRD operations and data_df.json file stores the data.
-Initially,if a client want to create a key,client must give key value pair as input whereas time-to-live property is optional
-
-![Screenshot (216)](https://user-images.githubusercontent.com/58383104/103439215-fb341d00-4c60-11eb-9846-1e4b85ca1eba.png)
-
-If a client wishes to delete some key value whose Time-To-Live property is not expired ,then it gets deletes from datastore
+The code.py file contains all the functions regarding CRD operations and data_df.json file stores the data.
