@@ -13,3 +13,6 @@ The file size never exceeds 1GB
 
 Go through the code.py file to know about CRD operations and data_df.json file stores the data.
 Initially,if a client want to create a key,client must give key value pair as input whereas time-to-live property is optional
+
+![Screenshot (216)](https://user-images.githubusercontent.com/58383104/103439215-fb341d00-4c60-11eb-9846-1e4b85ca1eba.png)
+
